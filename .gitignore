@@ -5,16 +5,10 @@
 [Ll]ogs/
 UserSettings/
 MemoryCaptures/
-
-# Keep all C# scripts and meta files
 !Assets/**/*.cs
 !Assets/**/*.meta
-
-# Keep essential Unity folders
 !Packages/manifest.json
 !ProjectSettings/**
-
-# IDE and system files
 .vs/
 .vscode/
 .idea/
@@ -29,20 +23,13 @@ MemoryCaptures/
 *.userprefs
 *.pidb
 *.booproj
-
 .DS_Store
 Thumbs.db
-
-# Builds and packages
 *.apk
 *.aab
 *.unitypackage
-
-# Logs and misc
 *.log
 *.htm
-
-# Optional large assets
 *.psd
 *.fbx
 *.wav
