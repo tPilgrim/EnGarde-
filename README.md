@@ -5,6 +5,12 @@
 
 Each match lasts **60 seconds**, and every successful hit scores a point. There are no health bars—only precision, timing, and skill determine the winner.
 
+<p float="left">
+<img src="Screenshots/En Garde! 1.png" width="350"/>
+  <img src="Screenshots/En Garde! 2.png" width="350"/>
+  <img src="Screenshots/En Garde! 3.png" width="350"/>
+</p>
+
 ## 🎯 Features
 - ⚔️ Fast-paced 1v1 sword combat
 - 🤖 Play against AI or another player
